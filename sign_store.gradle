@@ -1,23 +1,9 @@
-def keystoreProperties = new Properties()
-def keystoreDebugProperties = new Properties()
-keystoreProperties.load(new FileInputStream(rootProject.file("keystore.properties")))
-keystoreDebugProperties.load(new FileInputStream(rootProject.file("keystore-debug.properties")))
 project.ext {
 
-    APP_ID = "com.skysmobile.apps.pelisvideoslite"
+    APP_ID = "com.kevinserrano.apps.memoviesapp"
 
-    KEYSTORE_STORE_FILE = rootProject.file(keystoreProperties['storeFile'])
-    KEYSTORE_STORE_PASSWORD = keystoreProperties['storePassword']
-    KEYSTORE_KEY_ALIAS = keystoreProperties['keyAlias']
-    KEYSTORE_KEY_PASSWORD = keystoreProperties['keyPassword']
-
-    KEYSTORE_DEBUG_STORE_FILE = rootProject.file(keystoreDebugProperties['storeFile'])
-    KEYSTORE_DEBUG_STORE_PASSWORD = keystoreDebugProperties['storePassword']
-    KEYSTORE_DEBUG_KEY_ALIAS = keystoreDebugProperties['keyAlias']
-    KEYSTORE_DEBUG_KEY_PASSWORD = keystoreDebugProperties['keyPassword']
-
-    MOBILE_VERSION_CODE = 2
-    MOBILE_VERSION_NAME = "1.0.2"
+    MOBILE_VERSION_CODE = 1
+    MOBILE_VERSION_NAME = "1.0.0"
 
     //****************************/
     GOOGLE_ADMOB_APP_ID = '"' + GoogleAdmobAppId + '"'
@@ -28,18 +14,7 @@ project.ext {
 android {
 
     signingConfigs {
-        release {
-            storeFile project.KEYSTORE_STORE_FILE
-            storePassword project.KEYSTORE_STORE_PASSWORD
-            keyAlias project.KEYSTORE_KEY_ALIAS
-            keyPassword project.KEYSTORE_KEY_PASSWORD
-        }
-        debug {
-            storeFile project.KEYSTORE_DEBUG_STORE_FILE
-            storePassword project.KEYSTORE_DEBUG_STORE_PASSWORD
-            keyAlias project.KEYSTORE_DEBUG_KEY_ALIAS
-            keyPassword project.KEYSTORE_DEBUG_KEY_PASSWORD
-        }
+        debug {}
     }
 
 }
