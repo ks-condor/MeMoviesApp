@@ -1,12 +1,12 @@
-# PelisVideos Lite 🎬📽️
+# MeMoviesApp 🎬📽️
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-PelisVideos Lite is a sample movie videos list Android application 📱 built to demonstrate use of modern Android development tools - (Kotlin, Architecture Components, Clean Architecture with MVVM, Room, Jetpack Compose).
+MeMoviesApp is a sample movie videos list Android application 📱 built to demonstrate use of modern Android development tools - (Kotlin, Architecture Components, Clean Architecture with MVVM, Room, Jetpack Compose).
 
 **You can Install and test latest app 👇**
 
-[![PelisVideos Lite](https://img.shields.io/badge/PelisVideos Lite%F0%9F%93%A8%F0%9F%93%B2-APK-brightgreen.svg?style=for-the-badge&logo=android)](https://bitbucket.org/skysmobile/pelisvideos-plus-lite/raw/98c7940fd7ffce2d40cac2d59c614de682477682/apks/PelisVideosLite.apk)
+[![MeMoviesApp](https://img.shields.io/badge/MeMoviesApp%F0%9F%93%A8%F0%9F%93%B2-APK-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com/ks-condor/MeMoviesApp/blob/master/apks/PelisVideosLite.apk?raw=true)
 
 ## About
 Load the list of movies of cine, using the API of themoviedb, you can also see the details of a movie, add to favorites, see the trailer of the movie and many more using the API themoviedb.
@@ -15,7 +15,7 @@ Load the list of movies of cine, using the API of themoviedb, you can also see t
 - It supports dark theme too 🌗.
 
 ## Using [`Trello`](https://trello.com/)
-To manage tasks and correctly apply agile methodologies, Trello was used to complement, you can see the work board here [**(PelisVideos Lite Tablero)**](https://trello.com/invite/b/3dQxUxSi/f431b2c62931212c1f0d7dc5bbde675e/pelisvideos-lite) Trello.
+To manage tasks and correctly apply agile methodologies, Trello was used to complement, you can see the work board here [**(MeMoviesApp Board)**](https://trello.com/invite/b/3dQxUxSi/f431b2c62931212c1f0d7dc5bbde675e/pelisvideos-lite) Trello.
 
 
 ## 🔨Built With 🛠️
@@ -42,7 +42,7 @@ This app uses [(**Clean Architecture with MVVM)**](https://www.toptal.com/androi
 ## Contact
 If you need any help, you can connect with me.
 
-Visit:- [@elssiany](https://www.instagram.com/elssiany/)
+Visit:- [@kevinserranomojica](https://www.instagram.com/kevinserranomojica/)
 
 
 
