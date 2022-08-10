@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- https://developers.google.com/admob/android/quick-start -->
+
+    <!--Banner ad unit id-->
+    <string name="ad_id_banner" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+</resources>

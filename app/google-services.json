@@ -1,0 +1,493 @@
+{
+  "project_info": {
+    "project_number": "955739266567",
+    "firebase_url": "https://freemiums-app.firebaseio.com",
+    "project_id": "freemiums-app",
+    "storage_bucket": "freemiums-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955739266567:android:c1304384abc3fa3f7a54a2",
+        "android_client_info": {
+          "package_name": "com.skysmobile.apps.bloggermanagerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955739266567-hcbbl2tpi77uhj6nenvu0eje5gnam25v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skysmobile.apps.bloggermanagerapp",
+            "certificate_hash": "0dddadc1bca0fa8743877efbebddb842c0bc14e9"
+          }
+        },
+        {
+          "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3FxoAyNA70in3yKIYpPTwwZp-b6oKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955739266567:android:2704ca83aedd8c047a54a2",
+        "android_client_info": {
+          "package_name": "com.skysmobile.apps.generatornicknamegames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955739266567-31l6e4cdlsbbnr8696gk7kenh04q904j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skysmobile.apps.generatornicknamegames",
+            "certificate_hash": "b8e82631178e879620ee31c533bcceb708034614"
+          }
+        },
+        {
+          "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3FxoAyNA70in3yKIYpPTwwZp-b6oKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7628480963684684~5056527543"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955739266567:android:87ec9320b67553de7a54a2",
+        "android_client_info": {
+          "package_name": "com.skysmobile.apps.ingresosolidario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955739266567-cp6l2uje6mgbn8f1selb5oj0oo49bg32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skysmobile.apps.ingresosolidario",
+            "certificate_hash": "3e83ddec799d048c7176b008f388ced1c195e07c"
+          }
+        },
+        {
+          "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3FxoAyNA70in3yKIYpPTwwZp-b6oKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7628480963684684~7403726657"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955739266567:android:339b05aa877725df7a54a2",
+        "android_client_info": {
+          "package_name": "com.skysmobile.apps.miuicommunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955739266567-b728to3pps9gqvi6foddvu3t916qoumv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skysmobile.apps.miuicommunity",
+            "certificate_hash": "0f131f33f7b0a71c78c80ae205d04a821285b101"
+          }
+        },
+        {
+          "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3FxoAyNA70in3yKIYpPTwwZp-b6oKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955739266567:android:53f1854100f7be897a54a2",
+        "android_client_info": {
+          "package_name": "com.skysmobile.apps.movietrailersnowtv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3FxoAyNA70in3yKIYpPTwwZp-b6oKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955739266567:android:daaaa96cae26eb3b7a54a2",
+        "android_client_info": {
+          "package_name": "com.skysmobile.apps.pelisnowplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955739266567-ura5ok0g1i7pn27bbvjgi2eqso6i9eu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skysmobile.apps.pelisnowplus",
+            "certificate_hash": "0dddadc1bca0fa8743877efbebddb842c0bc14e9"
+          }
+        },
+        {
+          "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3FxoAyNA70in3yKIYpPTwwZp-b6oKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955739266567:android:c744dad8c20ae0de7a54a2",
+        "android_client_info": {
+          "package_name": "com.skysmobile.apps.pelisnowtrailersvideos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955739266567-v1ork7vch7umlh154cfn7tb8qqpenu96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skysmobile.apps.pelisnowtrailersvideos",
+            "certificate_hash": "27246af9ef2f0e186171b7819e91fd7d92a6abf2"
+          }
+        },
+        {
+          "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3FxoAyNA70in3yKIYpPTwwZp-b6oKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955739266567:android:50a22dd4f39d3d467a54a2",
+        "android_client_info": {
+          "package_name": "com.skysmobile.apps.pelisplusanime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3FxoAyNA70in3yKIYpPTwwZp-b6oKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955739266567:android:70a2c95f9cd46e1e7a54a2",
+        "android_client_info": {
+          "package_name": "com.skysmobile.apps.pelisplusmaxnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3FxoAyNA70in3yKIYpPTwwZp-b6oKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955739266567:android:24fa1fd74da8cdba7a54a2",
+        "android_client_info": {
+          "package_name": "com.skysmobile.apps.pelissnowpremium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3FxoAyNA70in3yKIYpPTwwZp-b6oKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955739266567:android:b2ebb99c81e256737a54a2",
+        "android_client_info": {
+          "package_name": "com.skysmobile.apps.pelisvideoslite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3FxoAyNA70in3yKIYpPTwwZp-b6oKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955739266567:android:695c49a82a963b9c7a54a2",
+        "android_client_info": {
+          "package_name": "com.skysmobile.apps.pelisvideosplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955739266567-hf8duume67rfujdajbch34tad5lu33t0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skysmobile.apps.pelisvideosplus",
+            "certificate_hash": "27246af9ef2f0e186171b7819e91fd7d92a6abf2"
+          }
+        },
+        {
+          "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3FxoAyNA70in3yKIYpPTwwZp-b6oKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7628480963684684~9891009373"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955739266567:android:e3fb29633a2246b57a54a2",
+        "android_client_info": {
+          "package_name": "com.skysmobile.apps.pelisvideosplus.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955739266567-i99g1qpv1c8i37ngsfe3hcc4jq3u8ksl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skysmobile.apps.pelisvideosplus.debug",
+            "certificate_hash": "63884e21f0bb67f155cbd483abbd88329d21adc7"
+          }
+        },
+        {
+          "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3FxoAyNA70in3yKIYpPTwwZp-b6oKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955739266567:android:f80b5c91fb69c6967a54a2",
+        "android_client_info": {
+          "package_name": "com.skysmobile.apps.videoplayerprime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955739266567-avstriben1mjpmjm9o8bhmddvqtigmkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skysmobile.apps.videoplayerprime",
+            "certificate_hash": "3d46f3a2da8dfb5cdb04d5fba0cbf6ea1c794328"
+          }
+        },
+        {
+          "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3FxoAyNA70in3yKIYpPTwwZp-b6oKjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955739266567-4qqlqdaiftcnnnt8rpihe3a9m349vdck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7628480963684684~9211988844"
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PelisVideos Lite</string>
+    <string name="exit">Exit</string>
+    <string name="movies">Movies</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="error_loading_movies">Ocurrio un error, intente nuevamente</string>
+    <string name="try_again">Try again</string>
+    <string name="wellcome">Welcome 🤗</string>
+    <string name="popular_movies">Popular movies</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="watch_now">Watch now</string>
+</resources>
