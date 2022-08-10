@@ -6,7 +6,7 @@ MeMoviesApp is a sample movie videos list Android application 📱 built to demo
 
 **You can Install and test latest app 👇**
 
-[![MeMoviesApp](https://img.shields.io/badge/MeMoviesApp%F0%9F%93%A8%F0%9F%93%B2-APK-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com/ks-condor/MeMoviesApp/blob/master/apks/PelisVideosLite.apk?raw=true)
+[![MeMoviesApp](https://img.shields.io/badge/MeMoviesApp%F0%9F%93%A8%F0%9F%93%B2-APK-brightgreen.svg?style=for-the-badge&logo=android)](https://github.com/ks-condor/MeMoviesApp/blob/master/apks/MeMoviesApp.apk?raw=true)
 
 ## About
 Load the list of movies of cine, using the API of themoviedb, you can also see the details of a movie, add to favorites, see the trailer of the movie and many more using the API themoviedb.
